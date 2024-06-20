@@ -1,2 +1,2 @@
-# prompts-para-artigo-gerado-por-ia
+# Prompts para artigo gerado por IA
 Passo a passo para gerar um artigo com layout
